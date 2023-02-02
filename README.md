@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![hi, i'm Aazain](https://user-images.githubusercontent.com/43759637/216472029-20fb2eb3-2e8e-4e53-835d-ec24ef08dbc4.png)
 
 "I am a motivated and enthusiastic learner, currently pursuing a degree in AI in software engineering technology. My goal is to become a skilled AI developer and make a difference in the world with my knowledge and skills. I am eager to explore new technologies, work on interesting projects, and collaborate with others. My Github account is a place for me to share my progress and connect with like-minded individuals. I am excited for the future and all the possibilities it holds. Let's learn and grow together!"
 
