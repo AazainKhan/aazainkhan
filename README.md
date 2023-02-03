@@ -14,9 +14,9 @@
 
 ### Tools & Technologies:
 
-![My Skills](https://skillicons.dev/icons?i=python,javascript,mysql,html,css,git,figma,photoshop)
+![My Tools](https://skillicons.dev/icons?i=python,javascript,mysql,cpp,html,css,git,discord,figma,photoshop)
 
 
 ### Reach me here!
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&link=https://www.linkedin.com/in/aazainkhan/)](https://www.linkedin.com/in/aazainkhan/)[![dev.to](https://skillicons.dev/icons?i=devto&link=https://dev.to/aazainkhan)](https://dev.to/aazainkhan)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&link=https://www.linkedin.com/in/aazainkhan/)](https://www.linkedin.com/in/aazainkhan/)  [![dev.to](https://skillicons.dev/icons?i=devto&link=https://dev.to/aazainkhan)](https://dev.to/aazainkhan)  [![GitHub](https://skillicons.dev/icons?i=github&link=https://github.com/Aazainkhan)](https://github.com/Aazainkhan)
