@@ -14,7 +14,8 @@
 
 ### Tools & Technologies:
 
-![My Tools](https://skillicons.dev/icons?i=python,javascript,mysql,cpp,html,css,git,discord,figma,photoshop)
+![My Tools](https://skillicons.dev/icons?i=python,javascript,mysql,cpp,html,css,git,bash,matlab,discord,vscode,figma,photoshop)      ![jupyter icon](https://user-images.githubusercontent.com/43759637/222952287-82fb0bb0-ab06-4061-9e25-ec4007c5cca1.png)
+
 
 
 ### Reach me here!
