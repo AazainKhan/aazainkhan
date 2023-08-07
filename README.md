@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ReactJS
 - 😄 Pronouns: He/Him
-- 🎨 I enjoy creating visually appealing things. Spectacles through my digital canvases
+- 🎨 I enjoy creating visually appealing things. Spectacles brought to life using my digital canvases
 - ⚡ Fun fact: I learned a lot from breaking things - crying about breaking them, and then fixing them :)
 
 ### Tools & Technologies
