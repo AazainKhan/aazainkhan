@@ -1,6 +1,3 @@
-
-![hi, i'm Aazain](https://github.com/AazainKhan/aazainkhan/assets/43759637/94749070-a071-4735-ba93-5b048a6d3d40)
-
 ### Hello World!
 
 - 🌱 I’m currently learning ReactJS
