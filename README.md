@@ -1,8 +1,8 @@
 ### Hello world!
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS**, **NodeJS**, **MongoDB**, **ExpressJS**
 - 😄 Pronouns: He/Him
-- 🎨 I enjoy creating visually appealing things. Spectacles brought to life using my digital canvases
+- 🎨 I enjoy creating visually appealing things. Learning and leveraging the tools I learn to bring things to life using my digital canvases.
 - ⚡ Fun fact: I learned a lot from breaking things - crying about breaking them, and then fixing them :)
 
 ### Tools & Frameworks
