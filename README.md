@@ -7,7 +7,7 @@
 
 ### Tools & Frameworks
 
-![My Tools](https://skillicons.dev/icons?i=python,javascript,react,nodejs,mysql,cpp,html,css,git,bash,matlab,discord,vscode,figma,photoshop,illustrator,premiere)
+![My Tools](https://skillicons.dev/icons?i=python,java,javascript,react,express,mongodb,nodejs,jquery,bootstrap,mysql,cpp,html,css,git,bash,matlab,discord,vscode,figma,photoshop,illustrator,premiere)
 
 ### Reach me here!
 
