@@ -1,16 +1,30 @@
-### Hello world!
+<h1 align="center">Hello World! I'm Aazain</h1>
 
-- 🌱 I’m currently learning **ReactJS**, **NodeJS**, **MongoDB**, **ExpressJS**
-- 😄 Pronouns: He/Him
-- 🎨 I enjoy creating visually appealing things. Learning and leveraging the tools I learn to bring things to life using my digital canvases.
-- ⚡ Fun fact: I learned a lot from breaking things - crying about breaking them, and then fixing them :)
+<div align="center">
 
-### Tools & Frameworks
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aazainkhan/)](https://linkedin.com/in/aazainkhan) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/aazainkhan)](https://dev.to/aazainkhan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/refractiveaazain/)](https://www.instagram.com/refractiveaazain/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aazainkhan@gmail.com)](mailto:aazainkhan)
 
-![My Tools](https://skillicons.dev/icons?i=python,java,javascript,react,express,mongodb,nodejs,jquery,bootstrap,mysql,cpp,html,css,git,bash,matlab,discord,vscode,figma,photoshop,illustrator,premiere)
+</div>
 
-### Reach me here!
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&link=https://www.linkedin.com/in/aazainkhan/)](https://www.linkedin.com/in/aazainkhan/)  [![dev.to](https://skillicons.dev/icons?i=devto&link=https://dev.to/aazainkhan)](https://dev.to/aazainkhan)  [![GitHub](https://skillicons.dev/icons?i=github&link=https://github.com/Aazainkhan)](https://github.com/Aazainkhan)  [![Gmail](https://user-images.githubusercontent.com/43759637/216711211-fe7c9403-9b9f-4e87-8aa5-35a0d4ceeef6.svg)](mailto:aazainkhan@gmail.com)  [![Twitter](https://skillicons.dev/icons?i=twitter&link=https://twitter.com/ThisIsAazain)](https://twitter.com/ThisIsAazain)  [![Instagram](https://skillicons.dev/icons?i=instagram&link=https://www.instagram.com/refractiveaazain/?hl=en)](https://www.instagram.com/refractiveaazain/?hl=en)   [![Leetcode](https://skillicons.dev/icons?i=leetcode&link=https://www.instagram.com/refractiveaazain/?hl=en)](https://www.instagram.com/refractiveaazain/?hl=en)
+<div align="center">
+  
+  🌱 I’m currently learning **ReactJS**, **NodeJS**, **MongoDB**, **ExpressJS** 
+</div>
 
-![Aazain's GitHub stats](https://github-readme-stats.vercel.app/api?username=aazainkhan)
+
+<div align="center">
+
+### Tools and Frameworks
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+<p align='center'><img src='https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif' width='200'></p>
+
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=aazainkhan)
+
+</div>
+
