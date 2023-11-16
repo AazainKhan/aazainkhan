@@ -5,12 +5,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aazainkhan/)](https://linkedin.com/in/aazainkhan) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/aazainkhan)](https://dev.to/aazainkhan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/refractiveaazain/)](https://www.instagram.com/refractiveaazain/)
 </div>
 
-
 <div align="center">
   
-  🌱 I’m currently learning **ReactJS**, **NodeJS**, **MongoDB**, **ExpressJS** 
-</div>
-
+  🌱 I’m currently learning the **MERN** stack, **Java**, and **Python for ML**
 
 <div align="center">
 
