@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  🌱 I’m currently learning the **MERN** stack, **Java**, and **Python for ML**
+  🌱 I’m currently learning the **MERN** stack, **Java**, and **Python for ML** (along with numerous other new stuff)
 
 <div align="center">
 
