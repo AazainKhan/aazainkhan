@@ -16,7 +16,7 @@
 
 </div>
 
-<p align='center'><img src='https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif' width='200'></p>
+<p align='center'><img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'></p>
 
 <div align="center">
   
