@@ -2,12 +2,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aazainkhan/)](https://linkedin.com/in/aazainkhan) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@aazainkhan)](https://medium.com/@aazainkhan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/refractiveaazain/)](https://www.instagram.com/refractiveaazain/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aazainkhan/)](https://linkedin.com/in/aazainkhan) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@aazainkhan)](https://medium.com/@aazainkhan)
 </div>
 
-<div align="center">
-  
-  🌱 I’m currently learning about **Flask**, **Java**, and **Python for ML**
 
 <div align="center">
 
